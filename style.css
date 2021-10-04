@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    margin-top: 20%;
+    text-align: center;
+    color: blue;
+}
+b{
+    color: coral;
+}
+
+@media (max-width:370px){
+    h2{
+        margin-top: 20%;
+        text-align: center;
+        color: rgb(92, 7, 73);
+    }
+    b{
+        color: rgb(31, 224, 13);
+    }
+}
